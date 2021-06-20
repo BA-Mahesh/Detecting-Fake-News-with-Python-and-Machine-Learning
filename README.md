@@ -1,7 +1,6 @@
 # Detecting-Fake-News-with-Python-and-Machine-Learning
-Do you trust all the news you hear from social media?
-All news are not real, right? 
-How will you detect fake news? 
+We will be hearing / Seeing lot of news through Social Media.
+Out of this many News are not real so how to check if the news what we hear is Fake  / Real
 
 The answer is Python. By practicing this advanced python project of detecting fake news, you will easily make a difference between real and fake news. Before moving ahead in this machine learning project, Let us know what is fake news, tfidfvectorizer, PassiveAggressive Classifier.
 Fake News : fake news encapsulates pieces of news that may be hoaxes and is generally spread through social media and other online media
