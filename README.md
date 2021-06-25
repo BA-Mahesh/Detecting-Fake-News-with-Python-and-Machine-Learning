@@ -25,6 +25,14 @@ This advanced python project of detecting fake news deals with fake and real new
 11.	accuracy_score, 
 12.	confusion_matrix
 
+## Steps Involved:
+1. Importing Necessary Libraries
+2. Reading the Data Set
+3. Checking for Missing Values
+4. Splitting the data for Train and Test
+5. Build and Test the model 
+6. Building Confusion Matrix
+7. Checking the Accuracy
 
-Summary :
+## Summary :
  We took a political dataset, implemented a TfidfVectorizer, initialized a PassiveAggressiveClassifier, and fit our model. We ended up obtaining an accuracy of 92.74%
